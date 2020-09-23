@@ -1,0 +1,3 @@
+PHRASE|CONNECT|SEVERITY|0|DESCRIPTION|SOCKET - Attempt to open an network/internet connection.|
+PHRASE|LISTEN|SEVERITY|0|DESCRIPTION|SOCKET - Attempt to open an network/internet connection.|
+PHRASE|WINSOCK|SEVERITY|0|DESCRIPTION|SOCKET - Attempt to access either the Winsock Control or the Winsock API to open a network/internet connection.|

@@ -1,0 +1,22 @@
+PHRASE|DELETEFILE|SEVERITY|2|DESCRIPTION|API - Attempt to delete a file.|
+PHRASE|FILECOPY|SEVERITY|1|DESCRIPTION|Attempt to copy a file.|
+PHRASE|KILL|SEVERITY|2|DESCRIPTION|Attempt to delete a file.|
+PHRASE|LOADRESDATA|SEVERITY|1|DESCRIPTION|This loads data from a resource file, which could be a malicious executable.|
+PHRASE|REGDELETEKEY|SEVERITY|2|DESCRIPTION|REGISTRY - Attempt to delete a registry key.|
+PHRASE|REGDELETEVALUE|SEVERITY|2|DESCRIPTION|REGISTRY - Attempt to delete a registry value.|
+PHRASE|REGOPENKEYEX|SEVERITY|1|DESCRIPTION|REGISTRY - Attemt to read the registry.|
+PHRASE|SHELL|SEVERITY|1|DESCRIPTION|Attempt to execute an external file.|
+PHRASE|SHELLEXECUTE|SEVERITY|1|DESCRIPTION|API - Attempt to execute an external file.|
+PHRASE|WNETADDCONNECTION|SEVERITY|0|DESCRIPTION|SOCKET - Attempt to open an network/internet connection.|
+PHRASE|WNETENUMCACHEDPASSWORDS|SEVERITY|1|DESCRIPTION|API - Attempt to search through chached passwords.|
+PHRASE|DELETESETTING|SEVERITY|2|DESCRIPTION|REGISTRY - Attempt to delete a registry setting.|
+PHRASE|APPEND|SEVERITY|0|DESCRIPTION|FILE - Attempt to append information to a file. This could be used to corrupt a system file.|
+PHRASE|OUTPUT|SEVERITY|0|DESCRIPTION|FILE - Attempt to overwrite information in a file. This could be used to corrupt a system file.|
+PHRASE|BINARY|SEVERITY|0|DESCRIPTION|FILE - Attempt to modify information in a file. This could be used to corrupt a system file.|
+PHRASE|DELETE|SEVERITY|2|DESCRIPTION|FILE SYSTEM OBJECT - Attempt to delete a file or folder.|
+PHRASE|MOVE|SEVERITY|1|DESCRIPTION|FILE SYSTEM OBJECT - Attempt to move a file or folder.|
+PHRASE|DELETEFOLDER|SEVERITY|2|DESCRIPTION|FILE SYSTEM OBJECT - Attempt to delete a folder.|
+PHRASE|DELETEFILE|SEVERITY|2|DESCRIPTION|FILE SYSTEM OBJECT - Attempt to delete a file.|
+PHRASE|CONNECT|SEVERITY|0|DESCRIPTION|SOCKET - Attempt to open an network/internet connection.|
+PHRASE|LISTEN|SEVERITY|0|DESCRIPTION|SOCKET - Attempt to open an network/internet connection.|
+PHRASE|WINSOCK|SEVERITY|0|DESCRIPTION|SOCKET - Attempt to access either the Winsock Control or the Winsock API to open a network/internet connection.|

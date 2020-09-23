@@ -1,0 +1,12 @@
+frmMain = 56, 56, 713, 548, , 28, 28, 685, 521, C
+PublicFunctions = 84, 84, 741, 576, 
+Resize = 0, 0, 0, 0, C
+clsParentFile = 168, 168, 948, 567, C
+clsChildFile = 0, 0, 780, 399, C
+clsFiles = 140, 140, 920, 539, C
+clsDefinition = 0, 0, 0, 0, C
+clsDictionary = 0, 0, 0, 0, C
+frmOptions = 112, 112, 769, 604, C, 84, 84, 741, 576, C
+frmAbout = 112, 112, 769, 604, C, 112, 112, 769, 604, C
+ReleaseNotes = 112, 112, 769, 604, C
+frmNodeInfo = 224, 224, 881, 716, C, 196, 196, 853, 688, C
